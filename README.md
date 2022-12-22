@@ -10,4 +10,4 @@
 ## Projects Git
 ### GitHub JAVA
 
-- [Costos](https://github.com/ciadti/Costos-Unipamplona)
+- [Costos](https://github.com/ciadti/Modulo_Costos_Gestasoft.git)
